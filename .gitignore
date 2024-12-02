@@ -38,7 +38,6 @@ desktop.ini
 *.res
 *.tlog
 <<<<<<< HEAD
-/routine
 /.idea
 /cmake-build-debug
 /cmake-build-debug-mingw
